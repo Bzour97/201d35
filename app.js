@@ -5,6 +5,8 @@ alert("hey, Smoking is harmful to health " + name )
 
 function inputUser(){
 
+let favCigarette = prompt("How old are you ?")
+
 let favCigarette = prompt("What is your fav cigarette? ,,, Please choose one of these : Marlboro , Winston , Kent")
 
 while( favCigarette != "Marlboro" && favCigarette != "Winston" && favCigarette != "Kent" )
