@@ -3,7 +3,7 @@ let name = prompt("What is your name")
 
 alert("hey, Smoking is harmful to health " + name )
 
-function inputUser(){
+//function inputUser(){
 
 let favCigarette = prompt("How old are you ?")
 
@@ -57,13 +57,13 @@ document.write(
 else{
   alert('Go to hell smoker')
 }
-}
+//}
 
-function RateUs()
-{
+//function RateUs()
+//{
   let rate = prompt(" Rate US ")
   alert(' Thanks ')
-}
+//}
 
-inputUser()
-RateUs()
+//inputUser()
+//RateUs()
